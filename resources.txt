@@ -1,0 +1,6 @@
+Resources I used in this course:
+- Intro to Descriptive Statistics by Udacity
+- Intro to Inferential Statistics by Udacity
+- Intro to Data Science by Udacity
+- On Cohen's strength of r statistics: http://www.polyu.edu.hk/mm/effectsizefaqs/thresholds_for_interpreting_effect_sizes2.html
+- Creating legend on matplotlib: http://matplotlib.org/users/legend_guide.html
