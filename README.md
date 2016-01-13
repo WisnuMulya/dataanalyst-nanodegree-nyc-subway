@@ -6,6 +6,7 @@ clear.
 ## Usage
 ### Quick Start
 To quickly access the analysis of the dataset, you can do the followings:
+
 1. Clone or download this repo to your local machine
 2. Go to the folder of this project
 3. Open `dand-nyc-subway.html` in the browser of your local machine
@@ -13,6 +14,7 @@ To quickly access the analysis of the dataset, you can do the followings:
 ### Using IPython Notebook
 To access or edit the analysis of the dataset using IPython Notebook, please do
 the followings:
+
 1. Clone or download this repo to your local machine
 2. Make sure you have IPython Notebook installed in your local machine. Please
    refer to [this link](http://jupyter.readthedocs.org/en/latest/install.html)
@@ -23,6 +25,7 @@ the followings:
    ```
 
 ## Knowledge Resources
+
 - https://storage.googleapis.com/supplemental_media/udacityu/4332539257/MannWhitneyUTest.pdf
 - https://storage.googleapis.com/supplemental_media/udacityu/4332539257/Linear%20Regression.pdf
 - http://blog.minitab.com/blog/adventures-in-statistics/how-high-should-r-squared-be-in-regression-analysis
@@ -32,4 +35,4 @@ the followings:
 - http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html
 
 ## License
-The contents of this repository are covered under the [MIT License](https://github.com/WisnuMulya/dataanalyst-nanodegree-nyc-subway/LICENSE.md).
+The contents of this repository are covered under the [MIT License](https://github.com/WisnuMulya/dataanalyst-nanodegree-nyc-subway/blob/master/LICENSE.md).
