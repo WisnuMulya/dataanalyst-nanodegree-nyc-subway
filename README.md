@@ -20,6 +20,7 @@ the followings:
    refer to [this link](http://jupyter.readthedocs.org/en/latest/install.html)
    for instructions on how to install IPython Notebook.
 3. Go to the directory of this project in CLI and run this:
+
    ```sh
    ipyton notebook dand-nyc-subway.ipynb
    ```
